@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=swghosh&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=79ff97&count_private=true&show_icons=true">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=swghosh&count_private=true&show_icons=true">
   </a>
 </p>
 
